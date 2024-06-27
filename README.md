@@ -1,4 +1,4 @@
-# CODSOFT-ATM_INTERFACE
+# CODSOFT-ATM INTERFACE
 
 >>>The aim is to create a Java Programm in which a user is given K chances to estimate a randomly generated number. The game's rules are as follows:
 
